@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arbeitszeit</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Account</string>
+    <string name="action_einstellungen">Settings</string>
+    <string name="buttonstart">Start</string>
+    <string name="title_activity_seite2">Page 2</string>
+
+</resources>

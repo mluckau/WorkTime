@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work Time</string>
+    <string name="action_settings">Konto</string>
+    <string name="action_einstellungen">Einstellungen</string>
+    <string name="buttonstart">Start</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="title_activity_seite2">Seite 2</string>
+</resources>
